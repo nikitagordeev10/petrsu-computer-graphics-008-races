@@ -1,0 +1,2 @@
+1) открыть lab_8_gordeev.fla
+2) нажать CTRL + ENTER
